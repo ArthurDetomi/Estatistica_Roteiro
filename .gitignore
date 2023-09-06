@@ -1,1 +1,9 @@
-*./exercicios_resolvidos/.*
+./exercicios_resolvidos/.*
+./exercicios_resolvidos/.RData
+./exercicios_resolvidos/.Rhistory
+./exercicios_resolvidos/.Rproj.user
+.RData
+.Rhistory
+.Rproj.user
+
+
